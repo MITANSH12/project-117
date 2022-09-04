@@ -1,0 +1,19 @@
+body    {
+    background-color: lime;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#show_sketch {
+    float: right;
+    margin-top: 2px;
+    margin-right: 3px;
+}
+#Heading {
+    background-color: beige;
+}
+#drawn_sketch {
+    color: red;
+}
+#timer {
+    margin-right: 50px;
+}
